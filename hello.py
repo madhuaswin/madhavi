@@ -30,6 +30,8 @@ print(r,type(r))
 range(0,10)
 for v in r:
    print()
+a=True
+
    
 
 
@@ -54,3 +56,5 @@ print("val of b=",b)
 print("val of c=",c)
 print("mul=",d)
 print("hello world")
+print("hello india")
+
