@@ -23,6 +23,34 @@ print([1])
 print([2])
 print([5])
 print([-3])
+l1=[10,30,40,50,256]
+print(l1,type(l1))
+r=range(10)
+print(r,type(r))
+range(0,10)
+for v in r:
+   print()
+   
 
 
-
+r=range(0,15)
+print(r,type(r))
+for val in r:
+   print(val)
+   
+   
+a=100
+b=200
+c=a+b
+print("val of a=",a)
+print("val of b=",b)
+print("sum",c)
+a=float(input("Enter First value:"))
+b=float(input("Enter Second value:"))
+c=float(input("Enter Third value:"))
+d=a*b*c
+print("val of a=",a)
+print("val of b=",b)
+print("val of c=",c)
+print("mul=",d)
+print("hello world")
