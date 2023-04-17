@@ -57,14 +57,11 @@ print("val of c=",c)
 print("mul=",d)
 print("hello world")
 print("hello india")
-#programing for accepting two values from key board
 a=input()
+print=(input("Enter the first value:"))
 b=input()
-print=("Enter two values:")
-#converting str value into float
-x1=float(a)
-x2=float(b)
-x3=x1+x2
-print=("{}+{}={}",format(x1,x2,x3))
+print=(input("Enter the second value:"))
+print=("type of a=",(type(a)))
+print=("type of b=",(type(b)))
 
 
