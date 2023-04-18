@@ -7,6 +7,6 @@ if(n<0):
 if(n==0):
     print("{} is equal to zero".format(n))
 print("%"*30)
-print("exicute the program")
+print("\nexicute the program")
           
           
