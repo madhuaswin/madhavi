@@ -8,10 +8,9 @@ if(b>big):
     print("{} biggest number".format(big))
 if(c>big):
     print("{}bigest number".format(big))
-if(c>b):
-    print("{} bigest number".format(big))
+
 print("*"*30)
-print("this is the biggest number")
+print("Find the biggest number")
 
 
       
