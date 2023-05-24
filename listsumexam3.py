@@ -7,7 +7,7 @@ else:
     s=0
     for i in range(1,n+1):
         lst=list()
-        val=float(input("{}Enter the value".format(i)))
+        val=float(input("{})Enter the value".format(i)))
         lst.append(val)
     else:
         print("*"*30)
