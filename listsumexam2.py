@@ -10,7 +10,7 @@ else:
         lst.append(val)
     else:
         print("*"*30)
-        print("Display the elements")
+        print("Display the elements :")
         print("*"*30)
         for val in lst:
             print(" value{}".format(val))
